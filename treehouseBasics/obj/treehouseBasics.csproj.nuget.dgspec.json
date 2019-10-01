@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/benjaminrongey/cSharp/treehouseBasics/treehouseBasics.csproj": {}
+    "/Users/benjaminrongey/cSharp/treehouse-c-sharp/treehouseBasics/treehouseBasics.csproj": {}
   },
   "projects": {
-    "/Users/benjaminrongey/cSharp/treehouseBasics/treehouseBasics.csproj": {
+    "/Users/benjaminrongey/cSharp/treehouse-c-sharp/treehouseBasics/treehouseBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/benjaminrongey/cSharp/treehouseBasics/treehouseBasics.csproj",
+        "projectUniqueName": "/Users/benjaminrongey/cSharp/treehouse-c-sharp/treehouseBasics/treehouseBasics.csproj",
         "projectName": "treehouseBasics",
-        "projectPath": "/Users/benjaminrongey/cSharp/treehouseBasics/treehouseBasics.csproj",
+        "projectPath": "/Users/benjaminrongey/cSharp/treehouse-c-sharp/treehouseBasics/treehouseBasics.csproj",
         "packagesPath": "/Users/benjaminrongey/.nuget/packages/",
-        "outputPath": "/Users/benjaminrongey/cSharp/treehouseBasics/obj/",
+        "outputPath": "/Users/benjaminrongey/cSharp/treehouse-c-sharp/treehouseBasics/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/benjaminrongey/.nuget/NuGet/NuGet.Config"

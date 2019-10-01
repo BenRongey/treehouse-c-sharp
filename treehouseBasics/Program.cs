@@ -7,16 +7,16 @@ namespace treehouseBasics
     class Program
     {
 
-        static void Ask(string question) {
-            Console.WriteLine(question);
-            string answer = Console.ReadLine();
-            Console.WriteLine(answer);
+        static string Ask(string question) {
+            Console.Write(question);
+            return Console.ReadLine();
         }
 
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Ask("How many cans are you ordering?");
+            string entry = Ask("How many cans are you ordering?");
+            Console.WriteLine(entry);
         }
     }
 }
