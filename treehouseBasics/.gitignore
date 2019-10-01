@@ -1,5 +1,4 @@
 Program.exe
 bin/*
-/obj/*
+obj/*
 treehouseBasics.csproj
-obj/project.assets.json
