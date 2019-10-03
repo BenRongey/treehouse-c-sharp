@@ -8,7 +8,7 @@ namespace treehouseBasics
     {
 
         static string Ask(string question) {
-            Console.Write(question);
+            Console.Write(question + " ");
             return Console.ReadLine();
         }
 
@@ -16,7 +16,7 @@ namespace treehouseBasics
         {
             Console.WriteLine("Hello World!");
             string entry = Ask("How many cans are you ordering?");
-            Console.WriteLine(entry);
+            Console.WriteLine($"You are ordering {entry} cans.");
         }
     }
 }
